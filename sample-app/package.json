@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "moment": "2.11.1",
-    "qs": "2.2.0"
+    "qs": "2.4.2"
   }
 }
