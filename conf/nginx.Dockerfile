@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:1.22
 
 RUN touch /var/run/nginx.pid \
  && chown -R www-data:root /var/run/nginx.pid \
